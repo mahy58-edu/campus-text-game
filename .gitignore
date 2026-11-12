@@ -1,0 +1,17 @@
+# 构建产物与运行时（走 Release 分发，不入库）
+Try1/
+*.exe
+*.dll
+*.pyd
+*.zip
+
+# 原始压缩包
+*.zip.zip
+
+# 系统/编辑器
+Thumbs.db
+desktop.ini
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
